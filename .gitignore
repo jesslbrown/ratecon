@@ -14,10 +14,10 @@ out/
 build/
 dist/
 
-# Env
+# Env — never commit any environment file
 .env
-.env.local
-.env.*.local
+.env.*
+!.env.example
 
 # Logs
 npm-debug.log*
