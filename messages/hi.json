@@ -1,0 +1,152 @@
+{
+  "marketing": {
+    "nav": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "signIn": "Sign in",
+      "getStarted": "Get started"
+    },
+    "hero": {
+      "title": "Snap a rate-con. Get paid faster.",
+      "subtitle": "RateCon turns your rate confirmations into branded invoices in under 60 seconds. Built for Canadian owner-operators.",
+      "cta": "Start 14-day free trial",
+      "secondary": "See how it works"
+    },
+    "valueProps": {
+      "extract": {
+        "title": "AI extraction",
+        "body": "Snap a photo. We pull broker, load number, pickup, delivery, and rate — automatically."
+      },
+      "tax": {
+        "title": "GST/HST done right",
+        "body": "Interprovincial freight zero-rated. Intraprovincial taxed at the destination's rate. We handle the CRA rules so you don't have to."
+      },
+      "tracking": {
+        "title": "Unpaid loads, tracked",
+        "body": "See every load that's overdue. Send reminders without leaving the app."
+      }
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Simple monthly plans. 14-day free trial, no card required.",
+      "solo": {
+        "name": "Solo",
+        "price": "$29",
+        "period": "/month",
+        "description": "For one-truck owner-operators.",
+        "features": [
+          "Unlimited rate-con extractions",
+          "Branded PDF invoices",
+          "GST/HST calculation",
+          "Email delivery to brokers"
+        ]
+      },
+      "plus": {
+        "name": "Plus",
+        "price": "$49",
+        "period": "/month",
+        "description": "For up to 3 trucks.",
+        "features": [
+          "Everything in Solo",
+          "Up to 3 driver profiles",
+          "Broker contact book",
+          "Priority support"
+        ]
+      },
+      "cta": "Start free trial"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Do I need to be GST/HST registered?",
+          "a": "No. If you're a small supplier under $30,000/year you can skip tax entirely. We'll respect the setting."
+        },
+        {
+          "q": "What about Quebec QST?",
+          "a": "QST is on the roadmap. For now we flag QST loads and recommend you consult your accountant."
+        },
+        {
+          "q": "Is my data private?",
+          "a": "Yes. Your loads, brokers, and invoices are isolated to your account by row-level security."
+        }
+      ]
+    },
+    "footer": {
+      "tagline": "Built for Canadian truckers.",
+      "copyright": "© RateCon"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Sign in to RateCon",
+      "subtitle": "We'll email you a magic link.",
+      "email": "Email",
+      "submit": "Send magic link",
+      "google": "Continue with Google",
+      "checkInbox": "Check your inbox for the sign-in link."
+    }
+  },
+  "app": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "invoices": "Invoices",
+      "brokers": "Brokers",
+      "settings": "Settings",
+      "newInvoice": "New invoice",
+      "signOut": "Sign out"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "kpi": {
+        "unpaid": "Unpaid",
+        "thisMonth": "Invoiced this month",
+        "overdue": "Overdue"
+      },
+      "empty": "No loads yet. Snap your first rate-con to get started.",
+      "newInvoice": "New invoice"
+    },
+    "invoices": {
+      "title": "Invoices",
+      "new": {
+        "title": "New invoice",
+        "step1": "Upload rate-con",
+        "step2": "Confirm details",
+        "step3": "Send",
+        "uploadHint": "Drop a photo or PDF here, or click to browse.",
+        "extracting": "Extracting load details…",
+        "extractingHint": "This usually takes 5–15 seconds.",
+        "reviewTitle": "Review extracted details",
+        "reviewSubtitle": "Trust nothing automatically. Edit anything that looks wrong before sending.",
+        "send": "Generate invoice & email",
+        "qstWarning": "QST handling coming soon — please consult your accountant for now."
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "tabs": {
+        "company": "Company",
+        "tax": "Tax",
+        "language": "Language",
+        "billing": "Billing"
+      }
+    },
+    "onboarding": {
+      "title": "Welcome to RateCon",
+      "subtitle": "Three quick steps and you're ready to invoice.",
+      "step1": "Company info",
+      "step2": "Tax & MC numbers",
+      "step3": "Language",
+      "skip": "Skip for now",
+      "continue": "Continue",
+      "finish": "Finish"
+    },
+    "common": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "loading": "Loading…",
+      "error": "Something went wrong. Please try again.",
+      "languageLabel": "Language"
+    }
+  }
+}
