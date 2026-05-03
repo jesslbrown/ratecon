@@ -43,7 +43,7 @@ export function OnboardingGate({ profile }: { profile: Profile | null }) {
         </ol>
         <p className="text-sm text-muted-foreground">
           {/* TODO(onboarding): wire up real form fields and persistence here. */}
-          The full onboarding form lives in /settings — we'll embed it inline
+          The full onboarding form lives in /settings — we&apos;ll embed it inline
           here after the MVP launches.
         </p>
         <div className="flex justify-between gap-2">
